@@ -1,0 +1,8 @@
+query FreeVideos {
+  freeVideos {
+    id
+    title
+    content
+    video_url
+  }
+}

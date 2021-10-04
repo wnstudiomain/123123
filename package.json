@@ -1,0 +1,33 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "My magnificent Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc19",
+    "@nuxtjs/auth": "^4.9.0",
+    "@nuxtjs/axios": "^5.9.7",
+    "@vue/cli-shared-utils": "^4.0.0-0",
+    "apollo-cache-inmemory": "^1.6.5",
+    "apollo-client": "^2.0.0",
+    "apollo-link": "^1.0.0",
+    "axios": "^0.19.2",
+    "core-js": "3",
+    "graphql": "14.0.0",
+    "graphql-tag": "^2.10.3",
+    "nuxt": "^2.0.0",
+    "typescript": "^3.8.3",
+    "uikit": "^3.3.7"
+  },
+  "devDependencies": {
+    "@babel/runtime-corejs3": "^7.9.2",
+    "@types/uikit": "^3.3.0"
+  }
+}
